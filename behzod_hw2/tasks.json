@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "title": "Выполнить домашнее задание",
+        "description": "Сделать ДЗ по FastAPI",
+        "completed": false,
+        "notes": ""
+    },
+    {
+        "id": 2,
+        "title": "Подготовить презентацию",
+        "description": "Подготовить слайды для презентации",
+        "completed": true,
+        "notes": "Завершено 5 марта"
+    },
+    {
+        "id": 3,
+        "title": "ДЗ 3",
+        "description": "Сделать два первых ДЗ",
+        "completed": false,
+        "notes": ""
+    }
+]
